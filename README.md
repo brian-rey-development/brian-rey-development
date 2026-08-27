@@ -55,36 +55,3 @@ I love building software end to end, mostly around **AI, complex systems and dat
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## Projects
-
-### 🧬 Baseline Health
-
-**An AI system for understanding longitudinal health data.**
-
-`LLMs` · `RAG` · `pgvector` · `Python` · `FastAPI` · `PostgreSQL`
-
-Ingests labs and medical documents, structures patient history, retrieves relevant context, and tracks changes over time.
-
-### ⚡ Cadence
-
-**An offline-first app for tasks, habits, goals and weekly reviews.**
-
-`Next.js` · `PostgreSQL` · `Drizzle` · `Supabase` · `Anthropic` · `PWA`
-
-Offline support, sync, optimistic updates and AI-assisted planning.
-
-[![Repository](https://img.shields.io/badge/View_repository-181717?style=flat-square\&logo=github)](https://github.com/Brian-rey-development/cadence)
-
-### 🤖 Robotics
-
-**Learning to build hardware projects while I learn embedded systems and robotics.**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=c\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square\&logo=arduino\&logoColor=white)
-
-Currently working with microcontrollers, sensors, motors and embedded software.
