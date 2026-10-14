@@ -6,7 +6,7 @@
 />
 <h1>Brian Rey</h1>
 
-### Full Stack Engineer · AI · Backend · Full Stack
+### Product Engineer · Founding Engineer · AI Engineer
 
 ![Based in Argentina](https://img.shields.io/badge/Based_in-Argentina-75AADB?style=for-the-badge)
 </div>
